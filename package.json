@@ -1,0 +1,20 @@
+{
+  "name": "generator-poc",
+  "version": "1.0.0",
+  "description": "A POC to demonstrate how to generate packages using yeoman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Niall O' Connor",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^4.0.1"
+  }
+}
