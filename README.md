@@ -1,7 +1,7 @@
 # Proof of concept for generating documentation using scaffolding
 
 <p float="left">
-    <img src="https://raw.githubusercontent.com/nialloc9/generator-poc/master/screenshots/run.png" alt='web' width="300">
+    <img src="https://raw.githubusercontent.com/nialloc9/scaffolding-poc/master/screenshots/run.png" alt='project running' width="300">
 </p>
 
 ### Prerequisites
